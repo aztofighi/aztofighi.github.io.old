@@ -11,7 +11,7 @@ Azadeh Tofighi is a **Computer Science Ph.D. student at the [University of Tehra
 * **Vendor and Contract Manager**: Manages relationships with vendors and oversees contract negotiations for hardware, software, and service procurement related to computer systems and network administration, ensuring cost-effectiveness and adherence to contractual agreements.
 
 
-## Selected Projects in Data Science 
+### Selected Projects in Data Science 
 Codes and More Projects Coming Soon...
 
 ---
