@@ -2,8 +2,8 @@ title: Azadeh Tofighi # your name (or website title) here
 logo: "/images/portfolio1.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
-  <a href="https://linkedin.com/in/azadeh-tofighi-38a6a999/"><i class="fa-brands fa-linkedin"></i> LinkedIn Profile </a> 
-  <a href="https://linkedin.com/in/azadeh-tofighi-38a6a999/"><i class="fa-sharp fa-regular fa-folder-user"></i> Download Resume </a> 
+  <a href="https://linkedin.com/in/azadeh-tofighi-38a6a999/"><i class="fa-brands fa-linkedin"></i> LinkedIn Profile </a> <br>
+  <a href="https://linkedin.com/in/azadeh-tofighi-38a6a999/"><i class="fa-solid fa-download"></i> Download Resume </a> 
 
   
 theme: jekyll-theme-minimal
