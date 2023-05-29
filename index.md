@@ -1,6 +1,6 @@
 ## About Azadeh
 
-Azadeh Tofighi is a computer science Ph.D. student at the [University of Tehran](https://ut.ac.ir/en), specializing in Artificial Intelligence. She is passionate about Machine Learning, Data Science, and NLP research. Azadeh also has 20 years of industry experience as aLead Computer System and Network Administrator at Iran Dairy Industries Co.
+Azadeh Tofighi is a **computer science Ph.D. student at the [University of Tehran](https://ut.ac.ir/en)**, specializing in Artificial Intelligence. She is passionate about Machine Learning, Data Science, and NLP research. Azadeh also has 20 years of industry experience as aLead Computer System and Network Administrator at Iran Dairy Industries Co.
 
 ## Selected Projects in Data Science (Coming Soon)
 
